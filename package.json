@@ -1,7 +1,6 @@
 {
   "name": "lincoln",
   "version": "1.0.0",
-  "description": "",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +9,15 @@
   "license": "ISC",
   "devDependencies": {
     "eslint": "^5.16.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndsamuelson/shumbaconsulting.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ndsamuelson/shumbaconsulting/issues"
+  },
+  "homepage": "https://github.com/ndsamuelson/shumbaconsulting#readme",
+  "description": ""
 }
