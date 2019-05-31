@@ -8330,12 +8330,12 @@ body {
 }
 
 .container-welcome {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 
 .container-home {
-    padding-bottom: 50px;
+    padding-bottom: 0px;
     background-color: #F1F2F2;
 }
 
