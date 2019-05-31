@@ -1,25 +1,25 @@
 {
-  "name": "lincoln",
-  "version": "1.0.0",
-  "main": "index.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Nic Samuelson",
-  "license": "ISC",
-  "devDependencies": {
-    "eslint": "^5.16.0"
-  },
-  "dependencies": {
-    "bootstrap": "^4.3.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ndsamuelson/shumbaconsulting.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ndsamuelson/shumbaconsulting/issues"
-  },
-  "homepage": "https://github.com/ndsamuelson/shumbaconsulting#readme",
-  "description": ""
+    "name": "shumbaconsulting",
+    "version": "1.0.0",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Nic Samuelson",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^5.16.0",
+        "webpack": "^4.32.2",
+        "bootstrap": "^4.3.1"
+    },
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ndsamuelson/shumbaconsulting.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ndsamuelson/shumbaconsulting/issues"
+    },
+    "homepage": "https://github.com/ndsamuelson/shumbaconsulting#readme",
+    "description": ""
 }
