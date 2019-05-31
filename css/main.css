@@ -5,7 +5,11 @@ Vanilla Template
 https://templatemo.com/tm-526-vanilla
 
 */
-
+.transparent {
+	zoom: 1;
+	filter: alpha(opacity=50);
+	opacity: 0.5;
+}
 p {
     font-size: 15px;
     line-height: 25px;
